@@ -1,0 +1,210 @@
+{
+  "id": 1792527428631,
+  "type": "character",
+  "action": "stand1",
+  "emotion": "default",
+  "skin": "2000",
+  "zoom": 1,
+  "frame": 0,
+  "mercEars": false,
+  "illiumEars": false,
+  "selectedItems": {
+    "Body": {
+      "name": "Body",
+      "noIcon": true,
+      "id": 2000,
+      "region": "GMS",
+      "version": "270",
+      "typeInfo": {
+        "overallCategory": "Character",
+        "category": "Character",
+        "subCategory": "Body",
+        "lowItemId": 2000,
+        "highItemId": 2999
+      }
+    },
+    "Head": {
+      "name": "Head",
+      "noIcon": true,
+      "id": 12000,
+      "region": "GMS",
+      "version": "270",
+      "typeInfo": {
+        "overallCategory": "Character",
+        "category": "Character",
+        "subCategory": "Head",
+        "lowItemId": 12000,
+        "highItemId": 12999
+      }
+    },
+    "Face": {
+      "requiredJobs": [
+        "Beginner"
+      ],
+      "isCash": true,
+      "requiredGender": 0,
+      "name": "Selfy 체스 킹 얼굴",
+      "desc": "",
+      "id": 53448,
+      "typeInfo": {
+        "overallCategory": "Equip",
+        "category": "Character",
+        "subCategory": "Face",
+        "lowItemId": 50000,
+        "highItemId": 59999
+      },
+      "region": "GMS",
+      "version": "270"
+    },
+    "Hair": {
+      "requiredJobs": [
+        "Beginner"
+      ],
+      "isCash": true,
+      "requiredGender": 2,
+      "name": "Leonine Hair",
+      "desc": "",
+      "id": 60930,
+      "typeInfo": {
+        "overallCategory": "Equip",
+        "category": "Character",
+        "subCategory": "Hair",
+        "lowItemId": 60000,
+        "highItemId": 69999
+      },
+      "region": "GMS",
+      "version": "270"
+    },
+    "Face Accessory": {
+      "requiredJobs": [
+        "Beginner"
+      ],
+      "requiredLevel": 0,
+      "isCash": true,
+      "requiredGender": 2,
+      "name": "Carlton's Volume Curl Mustache",
+      "desc": "",
+      "id": 1012855,
+      "typeInfo": {
+        "overallCategory": "Equip",
+        "category": "Accessory",
+        "subCategory": "Face Accessory",
+        "lowItemId": 1010000,
+        "highItemId": 1020000
+      },
+      "region": "GMS",
+      "version": "270"
+    },
+    "Top": {
+      "requiredJobs": [
+        "Beginner"
+      ],
+      "requiredLevel": 0,
+      "isCash": true,
+      "requiredGender": 2,
+      "name": "Orange Pea Coat",
+      "desc": "",
+      "id": 1042116,
+      "typeInfo": {
+        "overallCategory": "Equip",
+        "category": "Armor",
+        "subCategory": "Top",
+        "lowItemId": 1040000,
+        "highItemId": 1050000
+      },
+      "region": "GMS",
+      "version": "270"
+    },
+    "Bottom": {
+      "requiredJobs": [
+        "Beginner"
+      ],
+      "requiredLevel": 0,
+      "isCash": true,
+      "requiredGender": 0,
+      "name": "Black Suit Pants",
+      "desc": "",
+      "id": 1060001,
+      "typeInfo": {
+        "overallCategory": "Equip",
+        "category": "Armor",
+        "subCategory": "Bottom",
+        "lowItemId": 1060000,
+        "highItemId": 1070000
+      },
+      "region": "GMS",
+      "version": "270"
+    },
+    "Shoes": {
+      "requiredJobs": [
+        "Bowman"
+      ],
+      "requiredLevel": 10,
+      "isCash": false,
+      "requiredGender": 2,
+      "name": "Brown Hard Leather Boots",
+      "desc": "",
+      "id": 1072015,
+      "typeInfo": {
+        "overallCategory": "Equip",
+        "category": "Armor",
+        "subCategory": "Shoes",
+        "lowItemId": 1070000,
+        "highItemId": 1080000
+      },
+      "region": "GMS",
+      "version": "270"
+    },
+    "Glove": {
+      "requiredJobs": [
+        "Bowman"
+      ],
+      "requiredLevel": 20,
+      "isCash": false,
+      "requiredGender": 2,
+      "name": "Green Diros",
+      "desc": "",
+      "id": 1082015,
+      "typeInfo": {
+        "overallCategory": "Equip",
+        "category": "Armor",
+        "subCategory": "Glove",
+        "lowItemId": 1080000,
+        "highItemId": 1090000
+      },
+      "region": "GMS",
+      "version": "270"
+    },
+    "Bow": {
+      "requiredJobs": [
+        "Bowman"
+      ],
+      "requiredLevel": 13,
+      "isCash": false,
+      "requiredGender": 2,
+      "name": "Composite Bow",
+      "desc": "",
+      "id": 1452074,
+      "typeInfo": {
+        "overallCategory": "Equip",
+        "category": "Two-Handed Weapon",
+        "subCategory": "Bow",
+        "lowItemId": 1450000,
+        "highItemId": 1460000
+      },
+      "region": "GMS",
+      "version": "270"
+    }
+  },
+  "visible": true,
+  "position": {
+    "x": -448,
+    "y": -607
+  },
+  "fhSnap": true,
+  "flipX": false,
+  "name": "",
+  "includeBackground": false,
+  "animating": true,
+  "highFloraEars": false
+}
