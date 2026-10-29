@@ -2,7 +2,7 @@
 
 [![License][badge-1-img]][badge-1-link]
 
-My Maple Story chars, made with [maples.im][1].
+My MapleStory chars, made with [maples.im][1].
 
 ## Characters
 
